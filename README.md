@@ -24,13 +24,12 @@
 - [ ] Power supply
 - [ ] Belt 10ft
 - [ ] Weights (3)
-- [ ] Marker
-- [ ] Stepper motors (2)
+- [x] Marker
+- [x] Stepper motors (2)
 - [ ] Universal mounting hub (2)
-- [ ] Servo (1)
-- [ ] ESP32 (1)
+- [x] Servo (1)
+- [x] ESP32 (1)
 - [ ] Wire (~5 ft x however many ports the stepper needs)
-- [ ] Servo / marker mount
 
 ### To be built
 - [ ] Move toolhead to position
@@ -38,5 +37,6 @@
 - [ ] Upload svg
 - [ ] Stepper controllers
 - [ ] 3D printed pulleys
+- [ ] Servo / marker mount
 - [ ] Stepper mount (2)
 - [ ] Housing case
