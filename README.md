@@ -21,14 +21,23 @@
 ## Components
 ### Marker actuator
 - Suction cups (4-6)
-- Belt
+- Belt 10ft
 - Weights (3)
 - Marker
 - Stepper motors (2)
 - Stepper motor controllers (2)
 - Universal mounting hub (2)
+- 3D printed pulleys
 - Gears (2)
 - Servo (1)
 - ESP32 (1)
 - Wire
 - Hard case / carrying case
+- Servo / market mount
+- Stepper mount
+
+### To be built
+- 5ft wire
+- Stepper position code
+- Parsing toolpath
+- Upload svg
